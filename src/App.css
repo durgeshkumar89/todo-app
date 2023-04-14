@@ -1,0 +1,24 @@
+body{
+    background-color: lightskyblue;
+}
+center {
+    width: 500px;
+    height: 600px;
+    //padding: 20px 20px;
+    background-color: white;
+    color: rgb(15, 9, 11);
+    border-radius: 20px;
+    margin: auto;
+}
+button {
+    background-color: #040341; /* Green */
+    border-radius: 10px;
+    color: white;
+    border: 4px double #cccccc;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  
+  
